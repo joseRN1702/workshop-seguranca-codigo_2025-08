@@ -1,5 +1,4 @@
 
-WORKDIR /app
 
 # Copiar csproj e restaurar dependencias
 COPY *.csproj ./
