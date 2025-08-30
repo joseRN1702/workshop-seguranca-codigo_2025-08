@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/sdk:latest AS build-env
+
 WORKDIR /app
 
 # Copiar csproj e restaurar dependencias
